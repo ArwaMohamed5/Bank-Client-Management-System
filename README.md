@@ -15,9 +15,10 @@ A console-based bank client management system written in C++, using file storage
 Structs, enums, vectors, file handling (fstream), string splitting, function decomposition, pass by reference / const reference.
 
 ## How to Run
-1. Open the project in Visual Studio (or compile with any C++ compiler).
-2. Build and run.
-3. The repo includes a sample `Clients.txt` with dummy data, so you can try the program right away. Keep it in the same folder as the executable (or the project folder when running from Visual Studio).
+1. Download or clone the repository.
+2. Open `Bank-Client-Management-System-cpp.sln` in Visual Studio.
+3. Make sure `Clients.txt` is in the project folder (next to the .cpp file).
+4. Build and run (Ctrl + F5).
 
 ## Data Format
 Each client is one line, fields separated by `#//#`:
